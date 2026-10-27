@@ -57,16 +57,16 @@ export function GlobalHeader() {
           animate={scrolled ? "hidden" : "initial"}
         >
           <div className="col-span-full flex w-full gap-4 items-center justify-center">
-            <GlobalHeaderCopyButton text={"npm install @muybuen/cursor"} />
+            <GlobalHeaderCopyButton text={"npm install @bueno-dev/cursor"} />
             <Link
-              href={"https://www.npmjs.com/package/@muybuen/cursor"}
+              href={"https://www.npmjs.com/package/@bueno-dev/cursor"}
               className="uppercase text-body"
               target="_blank"
             >
               <Image src={"/npm.svg"} width={30} height={16} alt={"npm"} />
             </Link>
             <Link
-              href={"https://github.com/johnchourajr/buen-cursor"}
+              href={"https://github.com/johnchourajr/bueno-cursor"}
               className="uppercase text-body"
               target="_blank"
             >
@@ -85,7 +85,7 @@ export function GlobalHeader() {
             animate={scrolled ? "hidden" : "initial"}
           >
             <div className="col-span-full border-b-1 pb-3 border-[--color-primary]">
-              <h1 className="uppercase text-string ">@muybuen/cursor</h1>
+              <h1 className="uppercase text-string ">@bueno-dev/cursor</h1>
             </div>
             <div className="col-span-full">
               <p className="text-body max-w-[15em]">

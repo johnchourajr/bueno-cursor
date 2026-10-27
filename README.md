@@ -1,10 +1,10 @@
-# @muybuen/cursor
+# @bueno-dev/cursor
 
 ![og](https://github.com/user-attachments/assets/8f4535af-34c1-40c7-b37f-e207f342a40c)
 
-[![npm version](https://badge.fury.io/js/%40muybuen%2Fcursor.svg)](https://badge.fury.io/js/%40muybuen%2Fcursor)
+[![npm version](https://badge.fury.io/js/%40bueno-dev%2Fcursor.svg)](https://badge.fury.io/js/%40bueno-dev%2Fcursor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm downloads](https://img.shields.io/npm/dm/@muybuen/cursor.svg)](https://www.npmjs.com/package/@muybuen/cursor)
+[![npm downloads](https://img.shields.io/npm/dm/@bueno-dev/cursor.svg)](https://www.npmjs.com/package/@bueno-dev/cursor)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/johnchourajr/cursor/graphs/commit-activity)
@@ -18,7 +18,7 @@ A TypeScript first Custom Cursor for React and Next.js
 To install the package, run:
 
 ```bash
-npm install @muybuen/cursor
+npm install @bueno-dev/cursor
 ```
 
 ## Usage
@@ -32,10 +32,10 @@ npm install @muybuen/cursor
 
 "use client";
 
-import { BuenCursorProvider, Cursor } from "@muybuen/cursor";
+import { BuenCursorProvider, Cursor } from "@bueno-dev/cursor";
 import { ReactNode } from "react";
 
-import "@muybuen/cursor/dist/base.css";
+import "@bueno-dev/cursor/dist/base.css";
 
 type ProviderProps = {
   children: ReactNode;
@@ -79,8 +79,8 @@ export default function RootLayout({ children }) {
 
 ## Contributing
 
-This project is maintained by John Choura, but it open to contributions from anyone. See [CONTRIBUTORS](https://github.com/johnchourajr/buen-cursor/blob/main/CONTRIBUTORS.md) for a guide on how to contribute.
+This project is maintained by John Choura, but it open to contributions from anyone. See [CONTRIBUTORS](https://github.com/johnchourajr/bueno-cursor/blob/main/CONTRIBUTORS.md) for a guide on how to contribute.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/johnchourajr/buen-cursor/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/johnchourajr/bueno-cursor/blob/main/LICENSE) file for details.
