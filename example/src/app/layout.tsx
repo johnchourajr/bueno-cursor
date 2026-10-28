@@ -7,16 +7,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://cursor.muybuen.dev"),
-  title: "Buen Cursor",
+  title: "Bueno Cursor",
   description: "",
-  openGraph: {
-    images: [
-      {
-        url: "/og.png",
-        alt: "Buen Cursor",
-      },
-    ],
-  },
 };
 
 export default function RootLayout({
