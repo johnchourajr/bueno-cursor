@@ -1,9 +1,9 @@
 "use client";
 
-import { BuenCursorProvider, Cursor } from "@muybuen/cursor";
+import { BuenCursorProvider, Cursor } from "@bueno-dev/cursor";
 import { ReactNode } from "react";
 
-import "@muybuen/cursor/dist/base.css";
+import "@bueno-dev/cursor/dist/base.css";
 
 type ProviderProps = {
   children: ReactNode;

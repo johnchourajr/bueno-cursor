@@ -1,6 +1,6 @@
 {
-  "name": "@muybuen/cursor",
-  "version": "1.0.8",
+  "name": "@bueno-dev/cursor",
+  "version": "1.0.9",
   "description": "Custom cursor component for React with CSS.",
   "author": "John Choura",
   "license": "MIT",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnchourajr/buen-cursor.git"
+    "url": "git+https://github.com/johnchourajr/bueno-cursor.git"
   },
   "bugs": {
-    "url": "https://github.com/johnchourajr/buen-cursor/issues"
+    "url": "https://github.com/johnchourajr/bueno-cursor/issues"
   },
-  "homepage": "https://github.com/johnchourajr/buen-cursor#readme",
+  "homepage": "https://github.com/johnchourajr/bueno-cursor#readme",
   "peerDependencies": {
     "react": "^18",
     "react-dom": "^18",

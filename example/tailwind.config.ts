@@ -1,4 +1,4 @@
-import { buenTypeTailwind } from "@muybuen/type";
+import { buenTypeTailwind } from "@bueno-dev/type";
 import containerQueries from "@tailwindcss/container-queries";
 import type { Config } from "tailwindcss";
 import { PluginAPI } from "tailwindcss/types/config";
