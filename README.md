@@ -1,6 +1,7 @@
 # @bueno-dev/cursor
 
-![og](https://github.com/user-attachments/assets/8f4535af-34c1-40c7-b37f-e207f342a40c)
+<img width="2400" height="1260" alt="bueno-cursor" src="https://github.com/user-attachments/assets/8ca4f30a-70ac-4c64-bd37-4736adf29b96" />
+
 
 [![npm version](https://badge.fury.io/js/%40bueno-dev%2Fcursor.svg)](https://badge.fury.io/js/%40bueno-dev%2Fcursor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
