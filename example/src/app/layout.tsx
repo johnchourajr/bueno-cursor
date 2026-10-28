@@ -9,14 +9,6 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://cursor.muybuen.dev"),
   title: "Bueno Cursor",
   description: "",
-  openGraph: {
-    images: [
-      {
-        url: "/og.png",
-        alt: "Bueno Cursor",
-      },
-    ],
-  },
 };
 
 export default function RootLayout({
