@@ -6,7 +6,7 @@ import { GlobalHeader } from "@/components/GlobalHeader";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://cursor.dev.bueno.enterprises"),
+  metadataBase: new URL("https://cursor.oss.bueno.enterprises"),
   title: "Bueno Cursor",
   description: "",
 };
